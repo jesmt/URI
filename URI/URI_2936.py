@@ -1,0 +1,6 @@
+cu = int(input())
+bo = int(input())
+bt = int(input())
+ma = int(input())
+ia = int(input())
+print(cu *300 + bo*1500 + bt*600 + ma*1000 + ia*150 + 225)
